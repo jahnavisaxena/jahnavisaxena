@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Saxena</h1>
 <h3 align="center">Open to Learning new Code</h3>
 
-- 🌱 I’m presently learning **Object Oriented Programming**
+- 🌱 I’m presently learning **Web development**
 - 📫 How to reach me **jahnavisaxena96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
