@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Saxena</h1>
-<h3 align="center">Open to Learning new Code</h3>
+<h3 align="center">Open to Learning </h3>
 
 - 🌱 I’m presently learning **Web development**
 - 📫 How to reach me **jahnavisaxena96@gmail.com**
