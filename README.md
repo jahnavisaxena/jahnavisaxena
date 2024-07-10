@@ -2,7 +2,7 @@
 <h3 align="center">Open to Learning </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
-- 🌱 I’m presently learning **Web development**
+- 🌱 I’m presently learning **Data Structure and Algorithm**
 - 📫 How to reach me **jahnavisaxena96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
