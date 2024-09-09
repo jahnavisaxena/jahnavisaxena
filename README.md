@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Saxena</h1>
-<h3 align="center">Open to Learning </h3>
+<h3 align="center">Always learning, always coding. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
 - 🌱 I’m presently learning **Data Structure and Algorithm**
