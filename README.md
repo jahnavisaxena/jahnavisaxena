@@ -1,4 +1,4 @@
-<img src="7he R4.gif" width="100%" height="500px">
+<img src="7he R4.gif" width="100%" height="400px">
 <h1 align="center">Hi 👋, I'm Jahnavi Saxena</h1>
 <h3 align="center">Always learning, always coding. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
