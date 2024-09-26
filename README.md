@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
 - 🌱 I’m presently learning **Data Structure and Algorithm**
-- 📫 How to reach me **jahnavisaxena96@gmail.com**
+- 📫 How to reach me **Jahnavi.119613@stu.upes.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
