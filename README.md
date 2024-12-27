@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Jahnavi Saxena</h1>
 
-<h3 align="center">Always learning, always coding. </h3>
+<h6 align="center"><h6 align="center">I am a budding coder with a keen interest in cybersecurity, passionate about learning and building a strong foundation in protecting digital systems. As I dive into areas like ethical hacking, secure coding, and threat analysis, I am focused on developing my skills through hands-on practice and continuous exploration of emerging security trends. With a curious mind and a commitment to growth, I aim to contribute to creating safer and more resilient digital environments.
+
+</h5>
+          </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
 # 💫 About Me:
