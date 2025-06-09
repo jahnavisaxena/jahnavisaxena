@@ -25,7 +25,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jahnavisaxena&theme=github_dark&show_icons=true&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=jahnavisaxena&theme=github_dark&hide_border=false" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavisaxena&theme=github_dark&hide_border=false" /> 
 </td>
 
 <td width="70%" align="center">
