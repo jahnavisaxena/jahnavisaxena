@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Reconnaissance<br>🌱 I’m currently learning Nmap and Wireshark<br>💬 Ask me jahnavi.119613@stu.upes.ac.in<br>
+🔭 I’m currently working at INFERA <br>🌱 I’m currently learning Scripting<br>💬 Ask me jahnavi.119613@stu.upes.ac.in<br>
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahnavisaxenaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jahnavi-saxena) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JahnaviSaxena23) 
 # 💻 Tech Stack:
