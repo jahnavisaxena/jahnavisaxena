@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavisaxena" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working at **INFERA** as **Cybersecurity Intern**<br>🌱 I’m currently learning VAPT<br>💬 Ask me jahnavi.119613@stu.upes.ac.in<br>
+🔭 I’m currently working at **INFERA** as **SOC Intern**<br>🌱 I’m currently working on SIEM <br>💬 Ask me jahnavi.119613@stu.upes.ac.in<br>
 # 🌐 Socials:
 <p align="left">
 <a href="(https://www.linkedin.com/in/jahnavi-saxena-1318a6286/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnavisaxena" height="30" width="40" /></a>
